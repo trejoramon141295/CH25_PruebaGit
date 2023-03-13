@@ -8,5 +8,5 @@ Este proyecto incluye codigo en `HTML` y esta pensado para:
 4. Mejorar nuestras habilidades en git
 ---
 
-### Gracias por tus aportaciones
+### Gracias por tus aportaciones y comentarios
 
